@@ -1,8 +1,8 @@
 {
-  "domain": "{DOMAIN}",
-  "clientId": "{CLIENT_ID}",
+  "domain": "dev-j422nkbq4prdo2wz.us.auth0.com",
+  "clientId": "nA6AwO0Qbcfu7dszhmwzOBFWeT1ht71W",
   "authorizationParams": {
-    "audience": "{API_IDENTIFIER}"
+    "audience": "https://dev-j422nkbq4prdo2wz.us.auth0.com/api/v2/"
   },
   "apiUri": "http://localhost:3001",
   "appUri": "http://localhost:4200",
